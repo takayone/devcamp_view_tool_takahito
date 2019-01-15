@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{this is very nice gem. really}
   spec.description   = %q{Nicer than usual}
   spec.homepage      = "https://devcamp.com"
+  spec.license       = "takahito"
 
   # # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # # to allow pushing to a single host or delete this section to allow pushing to any host.
